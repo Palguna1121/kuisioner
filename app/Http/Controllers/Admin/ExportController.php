@@ -25,6 +25,6 @@ class ExportController extends Controller
 
     public function exportAudienAnswers()
     {
-        return Excel::download(new AudienAnswerExport(), 'audien_answers.xlsx');
+        return Excel::download(new AudienAnswerExport(), 'response.xlsx');
     }
 }

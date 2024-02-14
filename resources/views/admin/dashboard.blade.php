@@ -6,7 +6,7 @@
 <section class="content">
   <div class="container-fluid">
     <div class="mb-3">
-      <a href="{{ route('admin.export') }}" class="btn btn-success mr-1">Export Data Audien</a>
+      <a href="{{ route('admin.export') }}" class="btn btn-primary mr-1">Export Data Audien</a>
       <a href="{{ route('admin.exportaudienanswers') }}" class="btn btn-success ml-1">Export Data Jawaban Audien</a>
     </div>
     <div class="row">

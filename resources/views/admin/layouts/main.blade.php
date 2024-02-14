@@ -44,7 +44,7 @@
     <ul class="navbar-nav ml-auto">
       <!-- ... -->
       <li class="nav-item">
-          <button class="nav-link btn btn-sm btn-primary text-white" id="logout">Logout</button>
+          <button class="nav-link btn btn-sm btn-warning text-dark" id="logout">Logout</button>
       </li>
     </ul>
 
